@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Teko&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family: Montserrat, sans-serif;
+}
+
+/* headings and logo */
+
+h1, h2 {
+    font-family: Teko, sans-serif;
+    letter-spacing: 4px;
+}
+
+header > a {
+    text-decoration: none;
+}
+
+#logo {
+    margin: 0 auto;
+    text-transform: uppercase;
+    color: #4a4f74
+}
