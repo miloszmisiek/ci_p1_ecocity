@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Teko&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Teko&display=swap');
 
 * {
     margin: 0;
@@ -8,6 +8,7 @@
 
 body {
     font-family: Montserrat, sans-serif;
+    color: #4a4f74;
 }
 
 /* headings and logo */
@@ -17,12 +18,26 @@ h1, h2 {
     letter-spacing: 4px;
 }
 
-header > a {
+header a {
     text-decoration: none;
+    color: #4a4f74;
+}
+
+nav {
+    float:right;
+    display: inline-block;
+    padding: 50px 30px 30px 0;
+    font-size: 150%;
+}
+
+nav a {
+    margin-right: 20px;
 }
 
 #logo {
     margin: 0 auto;
     text-transform: uppercase;
-    color: #4a4f74
+    font-size: 350%;
+    padding: 30px 0 30px 50px;
+    display: inline-block;
 }
