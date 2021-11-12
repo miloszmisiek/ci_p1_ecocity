@@ -38,6 +38,7 @@ header a {
 }
 
 /* display dot below the element - code copied from Stack Overflow*/
+
 .select {
     display: inline-block;
     position: relative;
@@ -56,6 +57,42 @@ header a {
     font-size: 200%;
 }
 
+/* hero section */
+
+#trump-section {
+    align-items: center;
+}
+
+#trump-image {
+    clear: left;
+    height: 600px;
+    width: 100%;
+    background: url("../images/earth-space.jpg") no-repeat center center;
+    background-size: cover;
+    position: relative;
+}
+
+#trump-idea {
+    height: 100px;
+    width: 450px;
+    text-transform: uppercase;
+    font-size: 150%;
+    text-align: center;
+    border: none;
+    background-color: rgba(240,248,255, .7);
+    
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    right: 0;
+    margin: auto;
+    overflow: auto;
+}
+
+#trump-idea h3 {
+    font-size: 75%;
+}
 
 /* smartphone viewport */
 
@@ -71,10 +108,11 @@ header a {
     .menu {
         text-align: center;
     }
+
     .menu ul {
         display: inline-block;
-
     }
+
     .menu li {
         margin: 0 auto;
         padding: 20px;
