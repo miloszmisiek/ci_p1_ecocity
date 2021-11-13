@@ -93,6 +93,34 @@ header a {
     font-size: 75%;
 }
 
+/* home page knwoledge */
+
+#essential {
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 250%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.facts-left {
+    float: left;
+    height: 300px;
+    width: 20%;
+    border: 2px solid red;
+    margin: 20px;
+}
+
+.facts-right {
+    float: right;
+    height: 300px;
+    width: 20%;
+    border: 2px solid red;
+    margin: 20px;
+}
+
+
+/* tablet viewport */
 
 @media screen and (max-width: 1050px) {
     
