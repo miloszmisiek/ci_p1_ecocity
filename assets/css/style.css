@@ -95,6 +95,11 @@ header a {
 
 /* home page knwoledge */
 
+
+#knowledge-section {
+    position: relative;
+}
+
 #essential {
     text-transform: capitalize;
     text-align: center;
@@ -103,22 +108,35 @@ header a {
     margin-bottom: 20px;
 }
 
-.facts-left {
+#facts-left {
     float: left;
-    height: 300px;
-    width: 20%;
+    width: 45%;
+    /* height: 300px; */
     border: 2px solid red;
     margin: 20px;
 }
 
-.facts-right {
+#facts-right {
     float: right;
-    height: 300px;
-    width: 20%;
-    border: 2px solid red;
+    /* height: 300px; */
+    width: 45%;
+    border: 2px solid green;
     margin: 20px;
 }
 
+.facts-left-inside {
+    border: 2px dotted blue;
+    height: 250px;
+    width: 50%;
+    clear: both;
+}
+
+.facts-right-inside {
+    border: 2px dotted orange;
+    height: 250px;
+    width: 50%;
+    clear: both;
+}
 
 /* tablet viewport */
 
