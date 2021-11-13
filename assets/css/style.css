@@ -85,17 +85,28 @@ header a {
     
     /* centering div */
     position: absolute;
+    bottom: 100px;
+    right: 30px;
+}
+
+#trump-idea h3 {
+    font-size: 75%;
+}
+
+
+@media screen and (max-width: 1050px) {
+    
+    #trump-idea {
+    position: absolute;
     bottom: 0;
     left: 0;
     top: 0;
     right: 0;
     margin: auto;
     overflow: auto;
+    }
 }
 
-#trump-idea h3 {
-    font-size: 75%;
-}
 
 /* smartphone viewport */
 
