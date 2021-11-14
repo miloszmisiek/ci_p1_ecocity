@@ -110,6 +110,7 @@ hr {
     /* border: 2px solid gray; */
     height: 33%;
     width: auto;
+    line-height: 25px;
 }
 
 .paragraph-pic {
@@ -117,7 +118,7 @@ hr {
     width: 300px;
     border-radius: 50%;
     /* border: 2px dotted pink; */
-    margin-top: 50px;
+    margin-top: 85px;
     object-fit: cover;
     z-index: -1;
 }
