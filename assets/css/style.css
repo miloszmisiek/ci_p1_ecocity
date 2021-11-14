@@ -95,42 +95,25 @@ header a {
 
 /* home page knwoledge */
 
-
-#knowledge-section {
-    position: relative;
-}
-
 #knowledge-section h2 {
     text-align: center;
 }
 
-#glacier-heading {
-    padding-top: 70px
-}
-
 #knowledge-section p {
     text-align: justify;
+    /* border: 2px solid gray; */
+    height: 33%;
+    width: auto;
 }
 
 .paragraph-pic {
-    /* display: inline-block; */
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 250px;
-    width: 45%;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
     /* border: 2px dotted pink; */
-    float: right;
-    /* margin: 20px; */
-}
-
-#pic-plastic {
-    background-image: url("../images/plastic-facts.jpg");
-}
-
-#pic-glacier {
-    background-image: url("../images/melting-glacier.jpg");
-    margin-top: 30px;
+    margin-top: 50px;
+    object-fit: cover;
+    z-index: -1;
 }
 
 #essential {
@@ -141,37 +124,23 @@ header a {
     margin-bottom: 20px;
 }
 
-#facts-left {
-    float: left;
-    width: 45%;
-    /* height: 300px; */
-    /* border: 2px solid red; */
-    margin: 20px;
+.facts-inside {
+    width: 33%;
+    height: 300px;
+    /* margin: 0 100px; */
+    text-align: center;
 }
 
-#facts-right {
-    float: right;
-    /* height: 300px; */
-    width: 40%;
-    border: 2px solid green;
-    margin: 20px;
-}
-
-.facts-left-inside {
-    /* display: table; */
-    float: left;
+#plastic-part {
+    float:left;
     /* border: 2px dotted blue; */
-    height: 250px;
-    width: 45%;
+    margin-left: 100px;
 }
 
-.facts-right-inside {
-    display: inline-block;
-    border: 2px dotted orange;
-    line-height: 25px;
-    height: 250px;
-    width: 50%;
-    margin: 20px 0;
+#glacier-part {
+    float: right;
+    /* border: 2px solid green; */
+    margin-right: 100px;
 }
 
 
