@@ -95,6 +95,12 @@ header a {
 
 /* home page knwoledge */
 
+hr {
+    border-top: 1px solid #4a4f74;
+    margin-bottom: 5px;
+    width: 100%;
+}
+
 #knowledge-section h2 {
     text-align: center;
 }
