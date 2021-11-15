@@ -103,7 +103,7 @@ hr {
 
 #knowledge-section {
     height: 1200px;
-    border: 1px solid violet;
+    /* border: 1px solid violet; */
 }
 
 #knowledge-section h2 {
@@ -168,6 +168,31 @@ hr {
     /* border: 2px solid green; */
     margin-right: 100px;
     margin-top: 250px;
+}
+
+/* footer */
+
+footer {
+    /* height: 150px;
+    border: 1px solid brown; */
+    /* background-color: #f6f9fb; */
+}
+
+#social-network {
+    text-align: center;
+    background-color: inherit;
+}
+
+#social-network li {
+    list-style: none;
+    display: inline;
+}
+
+#social-network i {
+    font-size: 200%;
+    color: #4a4f74;
+    margin: 1%;
+    padding: 6%;
 }
 
 
