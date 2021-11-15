@@ -13,7 +13,8 @@ body {
 
 /* headings and logo */
 
-h1, h2 {
+h1,
+h2 {
     font-family: Teko, sans-serif;
     letter-spacing: 6px;
 }
@@ -31,7 +32,7 @@ header a {
 }
 
 #logo {
-    float:left;
+    float: left;
     text-transform: uppercase;
     font-size: 350%;
     margin-left: 20px;
@@ -69,7 +70,8 @@ header a {
     height: 600px;
     width: 100%;
     background: url("../images/earth-space.jpg") no-repeat center center;
-    background-size: cover; /* fills the whole div space */
+    background-size: cover;
+    /* fills the whole div space */
     position: relative;
     margin-top: 0;
 }
@@ -81,8 +83,8 @@ header a {
     font-size: 200%;
     text-align: center;
     border: none;
-    background-color: rgba(240,248,255, .7);
-    
+    background-color: rgba(240, 248, 255, .7);
+
     /* centering div */
     position: absolute;
     bottom: 100px;
@@ -113,10 +115,9 @@ hr {
 #knowledge-section p {
     text-align: center;
     /* border: 2px solid gray; */
-    height: 33%;
+    height: 25%;
     width: auto;
     line-height: 25px;
-    
 }
 
 .paragraph-pic {
@@ -124,7 +125,7 @@ hr {
     width: 300px;
     border-radius: 50%;
     /* border: 2px dotted pink; */
-    margin-top: 30px;
+    /* margin-top: 30px; */
     object-fit: cover;
     z-index: -1;
 }
@@ -139,90 +140,111 @@ hr {
 
 .facts-inside {
     width: 33%;
-    height: 300px;
+    height: 600px;
     /* margin: 0 100px; */
     text-align: center;
 }
 
-#plastic-part {
-    float:left;
-    /* border: 2px dotted blue; */
+.facts-left {
+    float: left;
     margin-left: 100px;
 }
 
-#glacier-part {
+.facts-right {
     float: right;
-    /* border: 2px solid green; */
     margin-right: 100px;
-}
-
-#air-pollution {
-    float:left;
-    /* border: 2px dotted blue; */
-    margin-left: 100px;
-    margin-top: 250px;
-}
-
-#chemical-pollution {
-    float: right;
-    /* border: 2px solid green; */
-    margin-right: 100px;
-    margin-top: 250px;
 }
 
 /* footer */
 
 footer {
-    /* height: 150px;
-    border: 1px solid brown; */
-    /* background-color: #f6f9fb; */
+    height: 150px;
+    margin-top: 50px;
+    /* border: 1px solid brown;
+    background-color: #f6f9fb; */
 }
 
 #social-network {
-    text-align: center;
-    background-color: inherit;
+    /* text-align: center; */
+    list-style: none;
+    display: flex;
+    justify-content: center;
 }
 
-#social-network li {
-    list-style: none;
+#social-network > li {
     display: inline;
 }
 
 #social-network i {
-    font-size: 200%;
+    font-size: 180%;
     color: #4a4f74;
-    margin: 1%;
-    padding: 6%;
+    margin: 30px 45px;
+    padding: 30px;
 }
 
 
 /* tablet viewport */
 
-@media screen and (max-width: 1050px) {
-    
+@media screen and (max-width: 1200px) {
+
     #trump-idea {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    top: 0;
-    right: 0;
-    margin: auto;
-    overflow: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        top: 0;
+        right: 0;
+        margin: auto;
+        overflow: auto;
+    }
+
+    hr {
+        border: none;
+    }
+    
+    #knowledge-section {
+        height: 2100px;
+    }
+    
+    #knowledge-section p {
+        height: 100px;
+        width: 520px;
+        line-height: 25px;
+        margin: 0 auto;
+    }
+
+    .facts-inside {
+        width: 100%;
+        padding-bottom: 200px;
+        /* float: none; */
+        margin: 0 auto;
+    }
+
+    /* footer {
+        margin-top: 200px;
+    } */
+
+    .paragraph-pic {
+        margin: 0 auto;
+    }
+
+    .facts-inside h2 {
+        padding-top: 10px;
     }
 }
+
 
 
 /* smartphone viewport */
 
 @media screen and (max-width: 800px) {
-    
+
     #logo {
         clear: both;
         width: 100%;
         text-align: center;
         margin: 20px 0 0 0;
     }
-    
+
     .menu {
         text-align: center;
     }
@@ -235,4 +257,12 @@ footer {
         margin: 0 auto;
         padding: 20px;
     }
+
+    /* #knowledge-section p {
+        padding-bottom: 30px;
+    } */
+
+    .facts-inside h2 {
+        padding-top: 10px;
+    } 
 }
