@@ -192,10 +192,12 @@ hr {
 .waste-cell p {
     position: absolute;
     margin: 0;
-    padding: 0 50px 0 15px;
+    padding: 0 15px;
     line-height: 25px;
     text-align: justify;
     color: white;
+    overflow: scroll;
+    height: 25%;
 }
 
 .waste-p-top {
@@ -206,11 +208,6 @@ hr {
     top: 65%;
 }
 
-.waste-p-bottom-overflow {
-    overflow: scroll;
-    height: 25%;
-}
-
 .do-not {
     /* font-family: Teko, sans-serif; */
     /* font-weight: 900; */
@@ -218,6 +215,7 @@ hr {
     /* float: right; */
     text-transform: uppercase;
     text-align: center;
+    line-height: 50px;
 }
 
 #plastic-metal {
