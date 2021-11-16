@@ -125,7 +125,6 @@ hr {
     width: 300px;
     border-radius: 50%;
     /* border: 2px dotted pink; */
-    /* margin-top: 30px; */
     object-fit: cover;
     z-index: -1;
 }
@@ -204,7 +203,7 @@ footer {
     #knowledge-section {
         height: 2100px;
     }
-    
+
     #knowledge-section p {
         height: 100px;
         width: 520px;
@@ -254,10 +253,6 @@ footer {
         margin: 0 auto;
         padding: 20px;
     }
-
-    /* #knowledge-section p {
-        padding-bottom: 30px;
-    } */
 
     .facts-inside h2 {
         padding-top: 10px;
