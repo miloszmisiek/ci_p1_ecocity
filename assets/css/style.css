@@ -158,6 +158,13 @@ hr {
 
 /* Waste Segregation */
 
+#waste-title {
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 300%;
+}
+
 #waste-table {
     width: 100%;
     display: table;
