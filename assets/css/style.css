@@ -169,6 +169,11 @@ hr {
 
 /* Waste Segregation */
 
+#eco-section {
+    height: 1500px;
+    border: 1px solid greenyellow;
+}
+
 #waste-table {
     width: 96%;
     display: table;
@@ -256,6 +261,51 @@ hr {
 
 #other-waste {
     background-color: gray;
+}
+
+.eco-impact {
+    display: block;
+    width: 40%;
+    margin: 0 2%;
+    border: 1px solid red;
+    height: 600px;
+}
+
+.eco-impact hr {
+    padding-bottom: 30px;
+    width: 85%;
+    margin: auto;
+}
+
+#eco-impact-left {
+    float: left;
+}
+
+#eco-impact-right {
+    float: right;
+}
+
+.eco-impact h2 {
+    text-align: center;
+    /* padding: 30px 0; */
+}
+
+.eco-impact img {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 0 auto;
+    display: block;
+}
+
+.eco-impact p {
+    display: block;
+    width: 90%;
+    border: 2px solid gray;
+    margin: 0 auto;
+    padding: 30px 0;
+    text-align: center;
 }
 
 
