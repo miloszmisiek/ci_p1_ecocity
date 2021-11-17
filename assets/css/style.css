@@ -205,9 +205,9 @@ hr {
     margin: 0;
     padding: 0 15px;
     line-height: 25px;
-    text-align: justify;
+    text-align: center;
     color: white;
-    overflow: scroll;
+    overflow: auto;
     height: 25%;
 }
 
@@ -354,7 +354,8 @@ footer {
     .waste-cell {
         display: block;
         width: 100%;
-        height: 240px;
+        height: 20vh;
+        max-height: 200px;
         /* border: 1px solid red; */
         clear: both;
     }
@@ -369,9 +370,13 @@ footer {
         height: 80%;
         /* margin: 10px 10px; */
         font-size: 80%;
-        border: 1px solid black;
+        /* border: 1px solid black; */
         margin: 10px;
         padding: 0;
+    }
+
+    .do-not {
+        line-height: normal;
     }
 
     .waste-p-top {
@@ -434,10 +439,6 @@ footer {
         padding: 0;
     }
 
-    .do-not {
-        line-height: normal;
-    }
-
     .waste-cell h2 {
         padding: 0 10px;
     }
@@ -447,5 +448,9 @@ footer {
 
     #trump-headings {
         height: 80vh;
+    }
+
+    .waste-cell p {
+        margin: 5px 5px;
     }
 }
