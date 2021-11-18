@@ -38,12 +38,12 @@
         <form action="https://formdump.codeinstitute.net/" method="post" class="contact-us-form">
             <h2>Contact Us!</h2>
             <label for="first-name">First Name</label>
-            <input type="text" name="first-name" placeholder="John" id="first-name" class="contact-input">
+            <input type="text" name="first-name" placeholder="John" id="first-name" class="contact-input" required>
             <label for="last-name">Last Name</label>
-            <input type="text" name="last-name" placeholder="Doe" id="last-name" class="contact-input">
+            <input type="text" name="last-name" placeholder="Doe" id="last-name" class="contact-input" required>
             <label for="email">Email Address</label>
-            <input type="email" name="email" placeholder="example@email.com" class="contact-input">
-            <textarea name="write-to-us" placeholder="Write to us!" cols="30" rows="10" class="contact-input"></textarea>
+            <input type="email" name="email" placeholder="example@email.com" class="contact-input" required>
+            <textarea name="write-to-us" placeholder="Write to us!" cols="30" rows="10" class="contact-input" maxlength="350"></textarea>
             <button type="submit" class="contact-input send-button" id="send-button">Send <i class="fas fa-paper-plane"></i></button>
         </form>
     </section>
