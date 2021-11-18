@@ -313,6 +313,42 @@ hr {
     text-align: center;
 }
 
+/* CONTACT US PAGE */
+
+#contact-section {
+    background: url("../images/contact-us.jpg") no-repeat center center;
+    background-size: cover;
+    height: 900px;
+    clear: both;
+    display: block;
+}
+
+.contact-us-form {
+    height: auto;
+    width: 33%;
+    max-width: 400px;
+    background-color: rgba(240, 248, 255, .7);
+    position: absolute;
+    top: 15%;
+    left: 5%;
+}
+
+.contact-us-form h2 {
+    text-align: center;
+}
+
+.contact-us-form label,
+.contact-input {
+    display: block;
+    clear: both;
+    margin: auto;
+    width: 90%;
+}
+
+.contact-input {
+    margin-bottom: 10px;
+}
+
 
 /* footer */
 
