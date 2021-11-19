@@ -213,8 +213,8 @@ hr {
     line-height: 25px;
     text-align: center;
     color: white;
-    overflow: auto;
-    height: 25%;
+    /* overflow: auto; */
+    height: 40%;
 }
 
 .waste-p-top {
@@ -435,6 +435,24 @@ footer {
         border: none;
     }
 
+    .facts-bottom {
+        margin-top: 50px;
+    }
+
+    .waste-p-top {
+        top: 5%;
+    }
+    
+    .waste-p-bottom {
+        top: 60%;
+    }
+}
+
+/* GO ECO PAGE */
+/* Waste Segregation Section */
+
+@media screen and (max-width: 1000px) {
+
     #knowledge-section {
         height: auto;
         width: 100%;
@@ -457,13 +475,7 @@ footer {
     .facts-inside h2 {
         padding-top: 10px;
     }
-}
-
-/* GO ECO PAGE */
-/* Waste Segregation Section */
-
-@media screen and (max-width: 1000px) {
-
+    
     #eco-section {
         height: 2450px;
     }
@@ -498,16 +510,15 @@ footer {
     }
 
     .waste-cell p {
-        width: 90%;
+        width: 60%;
         height: 35%;
         /* margin: 10px 10px; */
         font-size: 80%;
         border: 1px solid black;
         margin: 10px;
         padding: 0;
-        display: block;
         clear: both;
-        left: 3%;
+        left: 18%;
 
     }
 
@@ -589,8 +600,8 @@ footer {
         width: 250px;
     }
 
-    .waste-cell p {
-        padding: 0;
+    .waste-p-top  {
+        padding-top: 5%;
     }
 
     .waste-cell h2 {
@@ -615,6 +626,7 @@ footer {
 
     .waste-cell p {
         margin: 5px 5px;
+        width: 90%;
     }
 
     .eco-impact p,
