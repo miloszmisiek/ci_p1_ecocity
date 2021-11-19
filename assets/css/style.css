@@ -468,8 +468,8 @@ footer {
         height: 2450px;
     }
 
-    .wast-table {
-        height: 1200px;
+    .waste-table {
+        /* height: 1200px; */
         display: block;
     }
 
@@ -481,25 +481,33 @@ footer {
     .waste-cell {
         display: block;
         width: 100%;
-        height: 20vh;
-        max-height: 200px;
-        /* border: 1px solid red; */
-        clear: both;
-    }
+        height: 30vh;
+        /* max-height: 200px; */
+        border: 1px solid red;
+        clear: both;    }
 
     .waste-cell h2 {
-        width: 33%;
+        width: 100%;
         padding: 10px;
+        display: block;
+        clear: both;
+        border: 1px solid white;
+        position: absolute;
+        top: 10%;
     }
 
     .waste-cell p {
-        width: 28%;
-        height: 80%;
+        width: 80%;
+        height: 33%;
         /* margin: 10px 10px; */
         font-size: 80%;
-        /* border: 1px solid black; */
+        border: 1px solid black;
         margin: 10px;
         padding: 0;
+        display: block;
+        clear: both;
+        left: 10%;
+
     }
 
     .do-not {
@@ -507,13 +515,11 @@ footer {
     }
 
     .waste-p-top {
-        top: 1%;
-        left: 2%;
+        top: 20%;
     }
 
     .waste-p-bottom {
-        top: 1%;
-        right: 2%;
+        top: 60%;
     }
 
     #eco-wrapper {
