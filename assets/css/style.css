@@ -319,6 +319,7 @@ hr {
     clear: both;
     display: block;
     position: relative;
+    margin-bottom: 30px;
 }
 
 .contact-us-form {
@@ -437,14 +438,10 @@ footer {
         margin: 0 auto;
     }
 
-    hr {
-        border: none;
-    }
-
     .facts-bottom {
         margin-top: 50px;
     }
-
+    
     .waste-cell h2 {
         width: 85%;
     }
@@ -470,6 +467,10 @@ footer {
 
 @media screen and (max-width: 1000px) {
 
+    hr {
+        border: none;
+    }
+    
     #knowledge-section {
         height: auto;
         width: 100%;
@@ -497,14 +498,8 @@ footer {
         height: auto;
     }
 
-    .waste-table {
-        /* height: 1200px; */
-        display: block;
-    }
-
-    .waste-row {
-        display: block;
-        width: 100%;
+    #waste-table {
+        max-width: 600px;
     }
 
     .waste-cell {
