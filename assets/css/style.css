@@ -180,8 +180,9 @@ hr {
 
 #waste-table {
     width: 96%;
+    max-width: 1500px;
     display: table;
-    margin: 0 2%;
+    margin: 0 auto;
 }
 
 #waste-row {
