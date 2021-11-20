@@ -123,7 +123,7 @@ hr {
 }
 
 #knowledge-section p {
-    text-align: center;
+    text-align: justify;
     /* border: 2px solid gray; */
     width: auto;
     line-height: 25px;
@@ -172,7 +172,7 @@ hr {
 
 #eco-section {
     height: 1500px;
-    /* border: 1px solid greenyellow; */
+    border: 1px solid greenyellow;
 }
 
 #waste-table {
@@ -188,7 +188,7 @@ hr {
 
 .waste-cell {
     width: 20%;
-    /* border: 1px solid red; */
+    border: 1px solid red;
     display: table-cell;
     position: relative;
 }
@@ -211,10 +211,8 @@ hr {
     margin: 0;
     padding: 0 15px;
     line-height: 25px;
-    text-align: center;
     color: white;
-    /* overflow: auto; */
-    height: 40%;
+    border: 1px solid magenta;
 }
 
 .waste-p-top {
@@ -230,7 +228,6 @@ hr {
     font-weight: bold;
     letter-spacing: 1px;
     text-transform: uppercase;
-    text-align: center;
     line-height: 50px;
 }
 
@@ -266,9 +263,9 @@ hr {
 
 .eco-impact {
     display: block;
-    width: 40%;
-    margin: 0 2%;
-    /* border: 1px solid red; */
+    width: 33%;
+    margin: 0 7%;
+    border: 1px solid red;
     height: 600px;
 }
 
@@ -301,11 +298,11 @@ hr {
 
 .eco-impact p {
     display: block;
-    width: 90%;
-    /* border: 2px solid gray; */
+    width: auto;
+    border: 2px solid gray;
     margin: 0 auto;
     padding: 30px 0;
-    text-align: center;
+    text-align: justify;
 }
 
 /* CONTACT US PAGE */
@@ -385,7 +382,11 @@ hr {
     opacity: .5;
 }
 
-/* footer */
+.increased-input-fields {
+    height: 25px;
+}
+
+/* FOOTER */
 
 footer {
     height: 150px;
@@ -439,12 +440,23 @@ footer {
         margin-top: 50px;
     }
 
+    .waste-cell h2 {
+        width: 85%;
+    }
+    .waste-cell p {
+        font-size: 90%;
+    }
+
     .waste-p-top {
         top: 5%;
     }
     
     .waste-p-bottom {
         top: 60%;
+    }
+
+    .do-not {
+        line-height: normal;
     }
 }
 
@@ -477,7 +489,7 @@ footer {
     }
     
     #eco-section {
-        height: 2450px;
+        height: auto;
     }
 
     .waste-table {
@@ -496,15 +508,17 @@ footer {
         height: 60vh;
         max-height: 300px;
         /* max-height: 200px; */
-        border: 1px solid red;
-        clear: both;    }
+        /* border: 1px solid red; */
+        clear: both;
+        text-align: justify;
+    }
 
     .waste-cell h2 {
         width: 100%;
         padding: 10px;
         display: block;
         clear: both;
-        border: 1px solid white;
+        /* border: 1px solid white; */
         position: absolute;
         top: 10%;
     }
@@ -514,16 +528,12 @@ footer {
         height: 35%;
         /* margin: 10px 10px; */
         font-size: 80%;
-        border: 1px solid black;
+        /* border: 1px solid black; */
         margin: 10px;
         padding: 0;
         clear: both;
         left: 18%;
 
-    }
-
-    .do-not {
-        line-height: normal;
     }
 
     .waste-p-top {
@@ -627,6 +637,11 @@ footer {
     .waste-cell p {
         margin: 5px 5px;
         width: 90%;
+        left: 3%;
+    }
+
+    .eco-impact {
+        height: auto;
     }
 
     .eco-impact p,
