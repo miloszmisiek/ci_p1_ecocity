@@ -172,7 +172,7 @@ hr {
 
 #eco-section {
     height: 1500px;
-    border: 1px solid greenyellow;
+    /* border: 1px solid greenyellow; */
 }
 
 #waste-table {
@@ -188,7 +188,7 @@ hr {
 
 .waste-cell {
     width: 20%;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     display: table-cell;
     position: relative;
 }
@@ -212,7 +212,7 @@ hr {
     padding: 0 15px;
     line-height: 25px;
     color: white;
-    border: 1px solid magenta;
+    /* border: 1px solid magenta; */
 }
 
 .waste-p-top {
@@ -265,7 +265,7 @@ hr {
     display: block;
     width: 33%;
     margin: 0 7%;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     height: 600px;
 }
 
@@ -299,7 +299,7 @@ hr {
 .eco-impact p {
     display: block;
     width: auto;
-    border: 2px solid gray;
+    /* border: 2px solid gray; */
     margin: 0 auto;
     padding: 30px 0;
     text-align: justify;
@@ -649,10 +649,10 @@ footer {
         width: 80%;
     }
 
-    #contact-section {
+    /* #contact-section {
         background-position-x: -50px;
         width: auto;
-    }
+    } */
 
     .contact-us-form {
         width: 90%;
