@@ -38,8 +38,9 @@ The dominant colour is shade of blue with white background. Most images were cho
 # Features
 The main principle of ECOCITY site is to be intuitive and of simple construction. All elements are used as of most websites find in the internet.
 
+## Home Page
 - Navigation
-  - Location: top of the page next to logo.
+  - Location: top of the site next to logo on every page of the project.
   - It is well responsive to different viewports.
   - Logo can be clicked to bring user back to home page.
 
@@ -56,6 +57,7 @@ The main principle of ECOCITY site is to be intuitive and of simple construction
 
 - Essential Facts
   - Location: below hero section.
+  - Heading is in form of quiz question to puzzle the user.
   - Four sections with attached images of selected climate change facts with short text describing problems.
   - The intention is to give user a specific data about human enviromental impact to reflect on the problem.
 
@@ -66,3 +68,13 @@ The main principle of ECOCITY site is to be intuitive and of simple construction
   - The selection of social media was based on most commonly used platforms in the time of project submition.
 
 ![Footer](assets/images/readme/Footer.png)
+
+## GO ECO Page
+
+- Waste Segregation
+  - Location: below the navigation bar.
+  - The purpose of this section is to get user familiar with classes of waste and how to segrate them for recycling in every day life. It is structured in the way that top part gives user information on what is classified under the waste class, but bottom part represensts what should not be put together with the segregated waste of class.
+  - Intention is to reflect user on better home waste handling to reduce waste pollution.
+  - It was decided to build this section using html elements instead of image to allow for responsivness.
+
+![Waste Segregation](/assets/images/readme/Waste%20Segregation.png)
