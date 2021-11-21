@@ -55,4 +55,8 @@ The main principle of ECOCITY site is to be intuitive and of simple construction
 ![Hero Section - Desktop](assets/images/readme/Hero%20Section%20-%20Desktop.png)
 
 - Essential Facts
-  - Four sections with attached images of selected 
+  - Location: below hero section.
+  - Four sections with attached images of selected climate change facts with short text describing problems.
+  - The intention is to give user a specific data about human enviromental impact to reflect on the problem.
+
+![Essential Facts](assets/images/readme/Essential%20Facts.png)
