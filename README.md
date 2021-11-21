@@ -60,3 +60,9 @@ The main principle of ECOCITY site is to be intuitive and of simple construction
   - The intention is to give user a specific data about human enviromental impact to reflect on the problem.
 
 ![Essential Facts](assets/images/readme/Essential%20Facts.png)
+
+- Footer
+  - Contains social media links which opens in the new tab for better UX.
+  - The selection of social media was based on most commonly used platforms in the time of project submition.
+
+![Footer](assets/images/readme/Footer.png)
