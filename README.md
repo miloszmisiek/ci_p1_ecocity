@@ -6,26 +6,26 @@ ECOCITY is a website created to provide users with essential information regardi
 ## Wireframes
 [Balsamiq](https://balsamiq.com/) was used to create wireframes as part of project planning. They were used to discuss concept of the website with designated Code Institute mentor. Final project differs in some places from original concept presented below to improve UX or responsivnes of the site.
 ### Home Page
-![Home Page Image](/assets/images/readme/HOME.png)
+![Home Page Image](/assets/images/readme/home.png)
 
-![Home Page Image - Tablet](/assets/images/readme/HOME_%20TABLET.png)
+![Home Page Image - Tablet](/assets/images/readme/home-tablet.png)
 
-![Home Page - Smartphone](assets/images/readme/HOME_%20SMARTPHONE.png)
+![Home Page - Smartphone](/assets/images/readme/home-smartphone.png)
 
 ### GO ECO Page
-![GO ECO - DESKTOP](/assets/images/readme/GO%20ECO.png)
+![GO ECO - DESKTOP](/assets/images/readme/go-eco.png)
 
-![GO ECO - TABLET](assets/images/readme/GO%20ECO_%20TABLET.png)
+![GO ECO - TABLET](/assets/images/readme/go-eco-tablet.png)
 
-![GO ECO - SMARTPHONE](assets/images/readme/GO%20ECO_%20SMARTPHONE.png)
+![GO ECO - SMARTPHONE](/assets/images/readme/go-eco-smartphone.png)
 
 ### Contact Us Page
 
-![CONTACT US - DESKTOP](assets/images/readme/CONTACT%20US.png)
+![CONTACT US - DESKTOP](/assets/images/readme/contact-us.png)
 
-![CONTACT US - TABLET](assets/images/readme/CONTACT%20US_%20TABLET.png)
+![CONTACT US - TABLET](/assets/images/readme/contact-us-tablet.png)
 
-![CONTACT US - SMARTPHONE](assets/images/readme/CONTACT%20US_%20SMARTPHONE.png)
+![CONTACT US - SMARTPHONE](/assets/images/readme/contact-us-smartphone.png)
 
 ## Layout Design
 
@@ -45,7 +45,7 @@ The main principle of ECOCITY site is to be intuitive and of simple construction
   - Logo can be clicked to bring user back to home page.
 
 
-![Navigation Bar - Desktop](assets/images/readme/Navigation%20Bar%20-%20Desktop.png)
+![Navigation Bar - Desktop](/assets/images/readme/navigation-bar.png)
 
 - Hero Section
   - Location: under the navigation section.
@@ -53,7 +53,7 @@ The main principle of ECOCITY site is to be intuitive and of simple construction
   - Hero background image represents the planet Earth with the Moon viewed from the sattelite perspective. 
     - The intention is to show users the magnifique beuty of humans home planet, remind that we are all part of it and everyone has to contribiute to the global improvemnts.
 
-![Hero Section - Desktop](assets/images/readme/Hero%20Section%20-%20Desktop.png)
+![Hero Section - Desktop](/assets/images/readme/hero-section-desktop.png)
 
 - Essential Facts
   - Location: below hero section.
@@ -61,20 +61,35 @@ The main principle of ECOCITY site is to be intuitive and of simple construction
   - Four sections with attached images of selected climate change facts with short text describing problems.
   - The intention is to give user a specific data about human enviromental impact to reflect on the problem.
 
-![Essential Facts](assets/images/readme/Essential%20Facts.png)
+![Essential Facts](/assets/images/readme/essential-facts.png)
 
 - Footer
   - Contains social media links which opens in the new tab for better UX.
   - The selection of social media was based on most commonly used platforms in the time of project submition.
 
-![Footer](assets/images/readme/Footer.png)
+![Footer](/assets/images/readme/footer.png)
 
 ## GO ECO Page
 
 - Waste Segregation
   - Location: below the navigation bar.
+  - Heading is question the user may encounter with waste recycling.
   - The purpose of this section is to get user familiar with classes of waste and how to segrate them for recycling in every day life. It is structured in the way that top part gives user information on what is classified under the waste class, but bottom part represensts what should not be put together with the segregated waste of class.
   - Intention is to reflect user on better home waste handling to reduce waste pollution.
-  - It was decided to build this section using html elements instead of image to allow for responsivness.
+  - It was decided to build this section using html elements with cascade styling instead of pre-made up image to allow for responsivness.
 
-![Waste Segregation](/assets/images/readme/Waste%20Segregation.png)
+![Waste Segregation](/assets/images/readme/waste-segregation.png)
+
+- Change Section
+  - Location: below the Waste Segregation section.
+  - Heading is a statment that should influence the user to take action described in the paragraphs. Icons were added to get better user's attention.
+  - Two paragraphs represent how every user can contribiute to enviromental imporvement.
+  - The styling is mirrored from home page 'Knowladge Section' for enhanced UX.
+
+![Change Section](/assets/images/readme/change-section.png)
+
+## Contact Us Page
+
+- Background image was chosen to represent renewable energy sources to once more focus user attention on the topic.
+- Contact Us form is located in the top right corner to reduce background image cluttering.
+- The input fields 
