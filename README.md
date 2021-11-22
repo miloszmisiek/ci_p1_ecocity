@@ -133,6 +133,21 @@ The website was deployed to GitHub pages. The steps are as follows:
 The live link can be found here - [ECOCITY](https://miloszmisiek.github.io/ci_p1_ecocity/)
 
 # Credits
+## Content
 - Parts of code are implemented from [Stack Overlow](https://stackoverflow.com/) and [W3Schools](https://www.w3schools.com) (marked with comments).
 - Fonts are implemented using [Google Fonts](https://fonts.google.com/).
 - Icons are implemented from [Font Awesome](https://fontawesome.com/).
+- Footer and layout inspiration came from CI [Love Running](https://github.com/Code-Institute-Org/love-running-2.0) Project.
+- README file and **Contact Us** submition page inspiration came from CI Student *Ewan Colquhoun* [Wawas Woods](https://github.com/EwanColquhoun/wawaswoods) Project.
+- Wireframes were implemented using [Balsamiq](https://balsamiq.com/).
+
+## Media
+- Hero backround image came from [Pixabay](https://pixabay.com/).
+- 'Plastic Pollution', 'Melting Glaciers' and 'Air Pollution' paragraphs images came from [Unsplash](https://unsplash.com/).
+- 'Chemical Solvents', 'Go Cycling', 'Nature is power' and 'Contact Us' sections images came from [Pexels](https://www.pexels.com/).
+
+# Acknowledgements
+[ECOCITY](https://miloszmisiek.github.io/ci_p1_ecocity/) website was created as part of [Code Intitute](https://codeinstitute.net/) Full Stack Software Developer (e-Commerce) Diploma. I am very grateful to my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/) for his time spent and guidance on this project and Code Institute for creating such an excellent web-development study tool.
+
+
+Milosz Misiek 2021
