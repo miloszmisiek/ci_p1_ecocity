@@ -133,4 +133,6 @@ The website was deployed to GitHub pages. The steps are as follows:
 The live link can be found here - [ECOCITY](https://miloszmisiek.github.io/ci_p1_ecocity/)
 
 # Credits
-- Parts of code are implemented from [Stack Overlow]()
+- Parts of code are implemented from [Stack Overlow](https://stackoverflow.com/) and [W3Schools](https://www.w3schools.com) (marked with comments).
+- Fonts are implemented using [Google Fonts](https://fonts.google.com/).
+- Icons are implemented from [Font Awesome](https://fontawesome.com/).
