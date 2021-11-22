@@ -140,6 +140,13 @@ The live link can be found here - [ECOCITY](https://miloszmisiek.github.io/ci_p1
 - Footer and layout inspiration came from CI [Love Running](https://github.com/Code-Institute-Org/love-running-2.0) Project.
 - README file and **Contact Us** submition page inspiration came from CI Student *Ewan Colquhoun* [Wawas Woods](https://github.com/EwanColquhoun/wawaswoods) Project.
 - Wireframes were implemented using [Balsamiq](https://balsamiq.com/).
+- Information sources:
+  - 'Plastic Pollution': [Surfers Against Sewage](https://www.sas.org.uk/our-work/plastic-pollution/plastic-pollution-facts-figures/).
+  - 'Melting Glaciers': [World Wild Life](https://www.worldwildlife.org/pages/why-are-glaciers-and-sea-ice-melting).
+  - 'Air Pollution': [Voice of America](https://www.voanews.com/a/facts-about-air-pollution-on-world-environment-day/4946443.html).
+  - 'Chemical Solvents': [Penn Jersey Paper Co](https://www.pjponline.com/the-environmental-impact-of-cleaning-products/).
+  - 'Go Cycling': [Reid Bikes](https://www.reidbikes.com/2020/03/11/the-environmental-impacts-of-cycling/).
+  - 'Nature is Power': [ADEC Innovations](http://blog.adecesg.com/blog/environmental-impacts-of-renewable-energy-sources).
 
 ## Media
 - Hero backround image came from [Pixabay](https://pixabay.com/).

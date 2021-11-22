@@ -119,6 +119,11 @@ hr {
     /* border: 1px solid violet; */
 }
 
+.source {
+    font-style: italic;
+    font-size: 70%;
+}
+
 #knowledge-section h2 {
     text-align: center;
 }
