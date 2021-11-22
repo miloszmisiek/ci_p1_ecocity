@@ -405,7 +405,7 @@ hr {
     clear: both;
     height: 60vh;
     position: relative;
-    border: 1px solid green;
+    /* border: 1px solid green; */
     margin-bottom: 30px;
 }
 

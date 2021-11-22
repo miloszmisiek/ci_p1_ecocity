@@ -92,4 +92,45 @@ The main principle of ECOCITY site is to be intuitive and of simple construction
 
 - Background image was chosen to represent renewable energy sources to once more focus user attention on the topic.
 - Contact Us form is located in the top right corner to reduce background image cluttering.
-- The input fields 
+- Input fileds are used to collect personal data of the user with his email address. It will not allow user to leave the field blank or type incorrect email address format.
+- Textarea allows user to type his brief message. Maximum length of the messsage is 350 characters to force user for essential message.
+- Send button reverts colors when hovered with mouse pointer to attract user.
+
+![Contact Us Website](assets/images/readme/contact-us-website.png)
+
+## Future Features
+- A section/page with partners supporting the project and their contact details.
+  - It will help users reach out other valuable companies focused on ecology and improve commercial site of the project.
+- A shop with merch products.
+  - It will enhance project branding.
+- Animation effects for better UX.
+
+# Technologies Used
+- HTML5 - basic site structure.
+- CSS - cascade styling for website.
+- Balsamiq - wireframes used at planning stage.
+- Gitpod - cloud development platform to deploy website.
+- Github - code hosting platform to host the website.
+
+# Testing
+<!-- Testing section here -->
+
+# Deployment
+
+The website was deployed to GitHub pages. The steps are as follows:
+1. In GitHub project repository click on **Settings** tab.
+
+![GitHub Repository](assets/images/readme/github-deployment-1.png)
+
+2. On the left side, find **Pages** tab.
+3. On the right side of navigation table, find **Source** section and select *main* in the *branch* tab, make sure *root* directory is selected and press **Save**.
+4. If steps were succesfully followed, the green box will appear with message that the site was deployed.
+
+    *Until the site is published and ready to view it can take several minutes for server to response.*
+
+![GitHub Pages](assets/images/readme/github-deployment-2.png)
+
+The live link can be found here - [ECOCITY](https://miloszmisiek.github.io/ci_p1_ecocity/)
+
+# Credits
+- Parts of code are implemented from [Stack Overlow]()
