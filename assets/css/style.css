@@ -430,6 +430,10 @@ hr {
     text-decoration: none;
 }
 
+#submit-div p {
+    padding: 40px 0;
+}
+
 /* FOOTER */
 
 footer {
