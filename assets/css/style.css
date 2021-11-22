@@ -242,7 +242,7 @@ hr {
 }
 
 #plastic-metal {
-    background-color: yellow;
+    background-color: #f0ea57;
 }
 
 #plastic-metal p,
@@ -256,15 +256,15 @@ hr {
 
 
 #paper {
-    background-color: blue;
+    background-color: #2f74c1;
 }
 
 #glass {
-    background-color: green;
+    background-color: #108327;
 }
 
 #bio {
-    background-color: brown;
+    background-color: #7E4A2C;
 }
 
 #other-waste {
