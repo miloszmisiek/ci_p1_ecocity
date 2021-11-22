@@ -398,6 +398,33 @@ hr {
     height: 25px;
 }
 
+/* SUBMIT PAGE */
+
+#submit-section {
+    display: block;
+    clear: both;
+    height: 60vh;
+    position: relative;
+    border: 1px solid green;
+    margin-bottom: 30px;
+}
+
+#submit-div {
+    position:absolute;
+    top: 0; bottom: 0; left: 0; right: 0;
+    margin: auto;
+    height: 200px;
+    width: 60%;
+    text-align: center;
+    /* border: 1px solid red; */
+    font-size: 200%;
+    line-height: 35px;
+}
+
+#submit-div a {
+    text-decoration: none;
+}
+
 /* FOOTER */
 
 footer {
@@ -447,10 +474,11 @@ footer {
     .facts-bottom {
         margin-top: 50px;
     }
-    
+
     .waste-cell h2 {
         width: 85%;
     }
+
     .waste-cell p {
         font-size: 90%;
     }
@@ -458,7 +486,7 @@ footer {
     .waste-p-top {
         top: 5%;
     }
-    
+
     .waste-p-bottom {
         top: 60%;
     }
@@ -476,7 +504,7 @@ footer {
     hr {
         border: none;
     }
-    
+
     #knowledge-section {
         height: auto;
         width: 100%;
@@ -499,7 +527,7 @@ footer {
     .facts-inside h2 {
         padding-top: 10px;
     }
-    
+
     #eco-section {
         height: auto;
     }
@@ -616,7 +644,7 @@ footer {
         width: 250px;
     }
 
-    .waste-p-top  {
+    .waste-p-top {
         padding-top: 5%;
     }
 
@@ -627,6 +655,11 @@ footer {
     .eco-impact p {
         width: 60%;
     }
+
+    #submit-div {
+        font-size: 150%;
+        width: 90%;
+    }
 }
 
 @media screen and (max-width: 546px) {
@@ -634,7 +667,7 @@ footer {
     .menu li {
         padding: 0 5px 30px;
     }
-    
+
     #trump-headings {
         height: 80vh;
         max-height: 230px;
