@@ -98,8 +98,17 @@ The main principle of ECOCITY site is to be intuitive and of simple construction
 - Input fileds are used to collect personal data of the user with his email address. It will not allow user to leave the field blank or type incorrect email address format.
 - Textarea allows user to type his brief message. Maximum length of the messsage is 350 characters to force user for essential message.
 - Send button reverts colors when hovered with mouse pointer to attract user.
+- Contact Us form is validated only from client-site - no running server for this project.
 
 ![Contact Us Website](assets/images/readme/contact-us-website.png)
+
+## Submit Page
+
+- User is redirected to Submit page after filling Contact Us form correctly.
+- The site uses form element with method attribiute *GET*. The decision was made after [Youtube tutorial](https://www.youtube.com/watch?v=fNcJuPIZ2WE) to omit running server for this project.
+- The site provide link to home page - word *here*.
+
+![Submit Page](assets/images/readme/submit-page.png)
 
 ## Future Features
 - Compress all images to WebP format for enhanced site performance.
