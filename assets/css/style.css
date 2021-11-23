@@ -324,8 +324,8 @@ hr {
 /* CONTACT US PAGE */
 
 #contact-section {
-    background: url("../images/contact-us.jpg") no-repeat center center;
-    background-size: cover;
+    background: url("../images/contact-page.jpg") no-repeat center center;
+    background-size:cover;
     height: 900px;
     clear: both;
     display: block;
@@ -339,7 +339,7 @@ hr {
     max-width: 350px;
     background-color: rgba(240, 248, 255, .7);
     position: absolute;
-    margin: 100px 5% 0 0;
+    margin: 60px 5% 0 0;
     left: 5%;
 }
 
