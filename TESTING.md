@@ -16,4 +16,9 @@ Source codes was tested using HTML and CSS validators. No errors was found
 
    - Submit Page
 
+    ![HTML Validator](assets/images/testing/html-validator.png)
+
+2. CSS Validator [W3C Jigsaw](https://jigsaw.w3.org/css-validator/)
+
+    ![CSS Validator](assets/images/testing/jigsaw-css-validator.png)
 
