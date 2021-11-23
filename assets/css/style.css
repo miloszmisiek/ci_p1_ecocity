@@ -331,6 +331,7 @@ hr {
     display: block;
     position: relative;
     margin-bottom: 30px;
+    max-width: 2000px;
 }
 
 .contact-us-form {
@@ -456,6 +457,12 @@ footer {
 
 
 /* TABLET VIEWPORT */
+
+@media screen and (min-width: 2000px) {
+    #contact-section {
+        margin: 0 auto;
+    }
+}
 
 @media screen and (max-width: 1200px) {
 
