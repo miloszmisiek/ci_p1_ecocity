@@ -102,6 +102,7 @@ The main principle of ECOCITY site is to be intuitive and of simple construction
 ![Contact Us Website](assets/images/readme/contact-us-website.png)
 
 ## Future Features
+- Compress all images to WebP format for enhanced site performance.
 - A section/page with partners supporting the project and their contact details.
   - It will help users reach out other valuable companies focused on ecology and improve commercial site of the project.
 - A shop with merch products.

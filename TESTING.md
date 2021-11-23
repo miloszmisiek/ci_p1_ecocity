@@ -40,11 +40,11 @@ The website was tested using [Google Lighthouse](https://developers.google.com/w
 - Best Practices - rates how your websites includes industry standards.
 - SEO - *Search Engine Optimisation*, rates how your website is optimasied for search engine results.
 
-### Desktop Results
+### Desktop Results - Home Page (example)
 
 ![Lighthouse Desktop](assets/images/testing/lighthouse-desktop.png)
 
-### Mobile Results
+### Mobile Results - Home Page (example)
 
 ![Lighthouse Mobile](assets/images/testing/lighthouse-mobile.png)
 
