@@ -160,6 +160,7 @@ The live link can be found here - [ECOCITY](https://miloszmisiek.github.io/ci_p1
   - 'Chemical Solvents': [Penn Jersey Paper Co](https://www.pjponline.com/the-environmental-impact-of-cleaning-products/).
   - 'Go Cycling': [Reid Bikes](https://www.reidbikes.com/2020/03/11/the-environmental-impacts-of-cycling/).
   - 'Nature is Power': [ADEC Innovations](http://blog.adecesg.com/blog/environmental-impacts-of-renewable-energy-sources).
+  - 'Waste Segregation': [Czysta Bydgoszcz](https://www.czystabydgoszcz.pl/odpady-komunalne/rady-na-odpady/materialy-informacyjne/ang/), [Just Ask Poland](https://www.justaskpoland.com/new-rules-of-waste-management-in-poland/)
 
 ## Media
 - Hero backround image came from [Pixabay](https://pixabay.com/).
