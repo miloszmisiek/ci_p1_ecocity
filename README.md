@@ -1,6 +1,8 @@
 # ECOCITY
 ECOCITY is a website created to provide users with essential information regarding global climate change and how everyone can contribute to improve situation worldwide starting from small everyday changes with impact to local environment.
 
+Welcome to [ECOCITY](https://miloszmisiek.github.io/ci_p1_ecocity/)!
+
 ![Am I Responsive](assets/images/readme/am-i-responsive.png)
 
 # Contents
