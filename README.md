@@ -133,6 +133,7 @@ The main principle of ECOCITY site is to be intuitive and of simple construction
 
 - Background image was chosen to represent renewable energy sources to once more focus user attention on the topic.
 - Contact Us form is located in the top right corner to reduce background image cluttering.
+- The contact section is limted to max-width 2000px for UX, beyond this resolution the whitespace is added on both sides of the image, to prevent the image from extensive cropping.
 - Input fileds are used to collect personal data of the user with his email address. It will not allow user to leave the field blank or type incorrect email address format.
 - Textarea allows user to type his brief message. Maximum length of the messsage is 350 characters to force user for essential message.
 - Send button reverts colors when hovered with mouse pointer to attract user.
