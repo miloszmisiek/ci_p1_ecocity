@@ -440,6 +440,16 @@ footer {
     /* border: 1px solid brown; */
 }
 
+#copyright {
+    width: auto;
+    margin: 0 auto;
+    /* border: 1px solid green; */
+    text-align: center;
+    padding: 10px 0;
+    font-style: italic;
+    font-size: 80%;
+}
+
 #social-network {
     text-align: center;
 }
