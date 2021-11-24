@@ -22,17 +22,17 @@ Source codes was tested using HTML and CSS validators. No errors present.
 
     ![CSS Validator](assets/images/testing/jigsaw-css-validator.png)
 
-## Responsivnes
-Responsivnes design was checked with [Google Chrome Dev Tools](https://developer.chrome.com/) and with [Am I responsive?](http://ami.responsivedesign.is/). The website responds well to different screen sizes.
+## Responsiveness
+Responsiveness design was checked with [Google Chrome Dev Tools](https://developer.chrome.com/) and with [Am I responsive?](http://ami.responsivedesign.is/). The website responds well to different screen sizes.
 
 ## User Stories
 - As a user I want to see the content clearly.
   - White background gives great contrast to content presented.
   - The content ratio is maintained to focus attention on important aspects.
-  - Navigation bar at the top gives access to all webiste pages.
-- As a user I want to know what is the purpose of the website as I open it.
+  - Navigation bar at the top gives access to all website pages.
+- As a user I want to know what the purpose of the website is as I open it.
   - When the site opens, the hero image with the headings gets user's attention.
-  - Logo of the project is a message to the website main principle, to create eco friendly enviroment.
+  - Logo of the project is a message to the website main principle, to create eco-friendly environment.
 - As a user I want to access content in a very few clicks.
   - User can navigate through whole website content by using mouse button on the navigation bar and scrolling through the pages to see the content.
 - As a user I want to know what source was used to present data.
@@ -41,12 +41,12 @@ Responsivnes design was checked with [Google Chrome Dev Tools](https://developer
   - On **Home** page the facts related to climate change have images attached.
 - As a user I want to know what causes developing climate change.
   - On **Home** page below *hero* section user has access to essential climate change facts.
-- As a user I want to know what steps I can take to help the enviroment.
-  - Seperate **GO ECO** page present first steps the user can take to be more eco-frienldy.
+- As a user I want to know what steps I can take to help the environment.
+  - Separate **GO ECO** page present first steps the user can take to be more eco-friendly.
 - As a user I want to have option to contact project coordinator for more information required.
   - On the **Contact Us** page user can fill the form and send the message to responsible person.
 - As a user I want to access project social media, if any exist.
-  - All social media links are located in the footer and can be accessed from every page.
+  - All social media links are in the footer and can be accessed from every page.
 - As a user I want to know who has created the website.
   - In the footer there is small text with website creator copyright.
 
@@ -60,10 +60,10 @@ During html code validation, 1 bug was found and resolved:
 
 The website was tested using [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) in Chrome Dev Tools for desktop and mobile versions.
 
-- Performance - rates how your webiste responds while loading.
+- Performance - rates how your website responds while loading.
 - Accessibility - rates the accessibility of your website to all users (including impaired ones).
-- Best Practices - rates how your websites includes industry standards.
-- SEO - *Search Engine Optimisation*, rates how your website is optimasied for search engine results.
+- Best Practices - rates how your websites include industry standards.
+- SEO - *Search Engine Optimisation*, rates how your website is optimised for search engine results.
 
 ### Desktop Results - Home Page (example)
 
@@ -73,5 +73,4 @@ The website was tested using [Google Lighthouse](https://developers.google.com/w
 
 ![Lighthouse Mobile](assets/images/testing/lighthouse-mobile.png)
 
-First tests resulted in Performance score approx. 85%, due to large image files used on the website. After test, all images were resized to reduce their size. This process resulted in Performance score improvment up to 88% 
-
+First tests resulted in Performance score approx. 85%, due to large image files used on the website. After test, all images were resized to reduce their size. This process resulted in Performance score improvement up to 88%.
