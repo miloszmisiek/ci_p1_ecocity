@@ -4,9 +4,30 @@ ECOCITY is a website created to provide users with essential information regardi
 ![Am I Responsive](assets/images/readme/am-i-responsive.png)
 
 # Contents
-
-- [**User Experience**](<#user-experience>)
-  - [User Stories](<#user-stories>)
+<!-- - [ECOCITY](#ecocity)
+- [Contents](#contents) -->
+- [**User Experience**](#user-experience)
+  - [User Stories](#user-stories)
+  - [Wireframes](#wireframes)
+    - [Home Page](#home-page)
+    - [GO ECO Page](#go-eco-page)
+    - [Contact Us Page](#contact-us-page)
+  - [Layout Design](#layout-design)
+    - [Fonts](#fonts)
+    - [Colour](#colour)
+- [**Features**](#features)
+  - [Home Page](#home-page-1)
+  - [GO ECO Page](#go-eco-page-1)
+  - [Contact Us Page](#contact-us-page-1)
+  - [Submit Page](#submit-page)
+  - [Future Features](#future-features)
+- [**Technologies Used**](#technologies-used)
+- [**Testing**](#testing)
+- [**Deployment**](#deployment)
+- [**Credits**](#credits)
+  - [Content](#content)
+  - [Media](#media)
+- [**Acknowledgements**](#acknowledgements)
 
 # User Experience
 ## User Stories
