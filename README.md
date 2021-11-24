@@ -3,7 +3,10 @@ ECOCITY is a website created to provide users with essential information regardi
 
 ![Am I Responsive](assets/images/readme/am-i-responsive.png)
 
-<!-- # Contents list-->
+# Contents
+
+- [**User Experience**](<#user-experience>)
+  - [User Stories](<#user-stories>)
 
 # User Experience
 ## User Stories
