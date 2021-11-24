@@ -6,9 +6,9 @@ Welcome to [ECOCITY](https://miloszmisiek.github.io/ci_p1_ecocity/)!
 ![Am I Responsive](assets/images/readme/am-i-responsive.png)
 
 # Contents
-<!-- - [ECOCITY](#ecocity)
-- [Contents](#contents) -->
-- [**User Experience**](#user-experience)
+- [ECOCITY](#ecocity)
+- [Contents](#contents)
+- [User Experience](#user-experience)
   - [User Stories](#user-stories)
   - [Wireframes](#wireframes)
     - [Home Page](#home-page)
@@ -17,19 +17,19 @@ Welcome to [ECOCITY](https://miloszmisiek.github.io/ci_p1_ecocity/)!
   - [Layout Design](#layout-design)
     - [Fonts](#fonts)
     - [Colour](#colour)
-- [**Features**](#features)
+- [Features](#features)
   - [Home Page](#home-page-1)
   - [GO ECO Page](#go-eco-page-1)
   - [Contact Us Page](#contact-us-page-1)
   - [Submit Page](#submit-page)
   - [Future Features](#future-features)
-- [**Technologies Used**](#technologies-used)
-- [**Testing**](#testing)
-- [**Deployment**](#deployment)
-- [**Credits**](#credits)
+- [Technologies Used](#technologies-used)
+- [Testing](#testing)
+- [Deployment](#deployment)
+- [Credits](#credits)
   - [Content](#content)
   - [Media](#media)
-- [**Acknowledgements**](#acknowledgements)
+- [Acknowledgements](#acknowledgements)
 
 # User Experience
 ## User Stories
