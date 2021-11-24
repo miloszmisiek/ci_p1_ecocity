@@ -6,6 +6,17 @@ ECOCITY is a website created to provide users with essential information regardi
 <!-- # Contents list-->
 
 # User Experience
+## User Stories
+- As a user I want to see the content clearly.
+- As a user I want to know what is the purpose of the website as I open it.
+- As a user I want to access content in a very few clicks.
+- As a user I want to know what source was used to present data.
+- As a user I want to see have visual representation of climate change data.
+- As a user I want to know what causes developing climate change.
+- As a user I want to know what steps I can take to help the enviroment.
+- As a user I want to have option to contact creator for more information required.
+- As a user I want to access project social media, if any exist.
+
 ## Wireframes
 [Balsamiq](https://balsamiq.com/) was used to create wireframes as part of project planning. They were used to discuss concept of the website with designated Code Institute mentor. Final project differs in some places from original concept presented below to improve UX or responsivnes of the site.
 ### Home Page
@@ -69,6 +80,7 @@ The main principle of ECOCITY site is to be intuitive and of simple construction
 - Footer
   - Contains social media links which opens in the new tab for better UX.
   - The selection of social media was based on most commonly used platforms in the time of project submition.
+  - Author's copyright is located at a very bottom with centered, smaller text to avoid cluttering and focus attention on other content.
 
 ![Footer](/assets/images/readme/footer.png)
 
@@ -117,6 +129,8 @@ The main principle of ECOCITY site is to be intuitive and of simple construction
 - A shop with merch products.
   - It will enhance project branding.
 - Animation effects for better UX.
+- Filtering messages by topics with use of radio buttons.
+- Video content on climate change aspects and what can be bone to reduce the impact.
 
 # Technologies Used
 - HTML5 - basic site structure.
