@@ -181,6 +181,8 @@ The main principle of ECOCITY site is to be intuitive and of simple construction
 All various test results are presented in separate [TESTING](TESTING.md) file.
 
 # Deployment
+
+## Using GitHub Pages to deploy the project.
 The website was deployed to GitHub pages. The steps are as follows:
 1. In GitHub project repository, click on **Settings** tab.
 
@@ -194,7 +196,31 @@ The website was deployed to GitHub pages. The steps are as follows:
 
 ![GitHub Pages](assets/images/readme/github-deployment-2.png)
 
-The live link can be found here - [ECOCITY](https://miloszmisiek.github.io/ci_p1_ecocity/)
+The live link can be found here - [ECOCITY](https://miloszmisiek.github.io/ci_p1_ecocity/).
+
+## Fork a repository.
+A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project. The steps are as follows:
+1. On the GitHub.com navigate to repository page.
+2. In the top-right corner of the page, click **Fork**.
+
+![Fork Repo](/assets/images/readme/fork-repo.png)
+
+You can fork a repository to create a copy of the repository and make changes without affecting the upstream repository.
+
+## Clone a repository.
+In GitHub you have option to create a local copy (clone) of your repository on your device hardrive. The steps are as follows:
+1. On the GitHub.com navigate to repository page.
+2. Locate the *Code* tab and click on it.
+3. In the expanded window, click the two squares icon to copy https link of the repository.
+
+![Cloning Repository](assets/images/readme/clone-repo-1.png)
+
+4. On your computer, open **Terminal**.
+5. Naivgate to the direcotry of choice.
+6. Type **git clone** and paste the copied link of the repository.
+7. Press **Enter** and the local clone of the repository will be created in the selected directory.
+
+![Cloning Repository - terminal](/assets/images/readme/clone-repo-terminal.png)
 
 # Credits
 ## Content
@@ -203,6 +229,7 @@ The live link can be found here - [ECOCITY](https://miloszmisiek.github.io/ci_p1
 - Icons are implemented from [Font Awesome](https://fontawesome.com/).
 - Colours visual representation come from [HTML Colors](https://color-term.com/html-colors/), [SchemeColor](https://www.schemecolor.com/no-easy-person.php), [Color Hexa](https://www.colorhexa.com/).
 - Markdown table for Responsiveness section in TESTING file was created using [Tables Generator](https://www.tablesgenerator.com/markdown_tables).
+- GitHub Deployment section come from [GitHub Docs](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
 - Footer and layout inspiration came from CI [Love Running](https://github.com/Code-Institute-Org/love-running-2.0) Project.
 - README file and **Contact Us** submission page inspiration came from CI Student *Ewan Colquhoun* [Wawas Woods](https://github.com/EwanColquhoun/wawaswoods) Project.
 - Wireframes were implemented using [Balsamiq](https://balsamiq.com/).
