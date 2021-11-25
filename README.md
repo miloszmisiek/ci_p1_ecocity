@@ -160,11 +160,11 @@ The main principle of ECOCITY site is to be intuitive and of simple construction
 - Video content on climate change aspects and what can be bone to reduce the impact.
 
 # Technologies Used
-- HTML5 - basic site structure.
-- CSS - cascade styling for website.
-- Balsamiq - wireframes used at planning stage.
-- Gitpod - cloud development platform to deploy website.
-- GitHub - code hosting platform to host the website.
+- [HTML5](https://html.spec.whatwg.org/) - basic site structure.
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html) - cascade styling for website.
+- [Balsamiq](https://balsamiq.com/wireframes/) - wireframes used at planning stage.
+- [Gitpod](https://www.gitpod.io/#get-started) - cloud development platform to deploy website.
+- [Github](https://github.com/) - code hosting platform to host the website.
 
 # Testing
 All various test results are presented in separate [TESTING](TESTING.md) file.
