@@ -68,7 +68,7 @@ Welcome to [ECOCITY](https://miloszmisiek.github.io/ci_p1_ecocity/)!
 ![CONTACT US - SMARTPHONE](/assets/images/readme/contact-us-smartphone.png)
 
 ## Site Structure
-ECOCITY has 3 pages. The default loading page is [Home](https://miloszmisiek.github.io/ci_p1_ecocity/index.html). [GO ECO](https://miloszmisiek.github.io/ci_p1_ecocity/goeco.html) and [Contact Us](https://miloszmisiek.github.io/ci_p1_ecocity/contactus.html) pages can be loaded from navigation menu on the top of the site. [Submit](https://miloszmisiek.github.io/ci_p1_ecocity/submit.html) page opens when user fill the Contact Us form correctly.
+[ECOCITY](https://miloszmisiek.github.io/ci_p1_ecocity/) has 3 pages. The default loading page is [Home](https://miloszmisiek.github.io/ci_p1_ecocity/index.html). [GO ECO](https://miloszmisiek.github.io/ci_p1_ecocity/goeco.html) and [Contact Us](https://miloszmisiek.github.io/ci_p1_ecocity/contactus.html) pages can be loaded from navigation menu on the top of the site. [Submit](https://miloszmisiek.github.io/ci_p1_ecocity/submit.html) page opens when user fill the Contact Us form correctly.
 ## Layout Design
 ### Fonts
 Two styles of fonts are used for the project: 'Teko' for headings and 'Montserrat' for body text elements. All fonts are backed-up with sans-serif.
