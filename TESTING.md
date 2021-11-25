@@ -23,7 +23,13 @@ Source codes was tested using HTML and CSS validators. No errors present.
     ![CSS Validator](assets/images/testing/jigsaw-css-validator.png)
 
 ## Responsiveness
-Responsiveness design was checked with [Google Chrome Dev Tools](https://developer.chrome.com/) and with [Am I responsive?](http://ami.responsivedesign.is/). The website responds well to different screen sizes.
+Responsiveness design was checked with [Google Chrome Dev Tools](https://developer.chrome.com/), [Safari Web Development Tools](https://developer.apple.com/safari/tools/) and with [Am I responsive?](http://ami.responsivedesign.is/). The website responds well to different screen sizes.
+
+|        | Moto G4 | Galaxy S5 | iPhone 5/SE | iPhone X | iPad | iPad Pro | 1366 x 768 | 1920 x 1080 |
+|--------|:-------:|:---------:|:-----------:|:--------:|:----:|:--------:|:----------:|:-----------:|
+| Render |   pass  |    pass   |     pass    |   pass   | pass |   pass   |    pass    |     pass    |
+| Images |   pass  |    pass   |     pass    |   pass   | pass |   pass   |    pass    |     pass    |
+|  Links |   pass  |    pass   |     pass    |   pass   | pass |   pass   |    pass    |     pass    |
 
 ## User Stories
 - As a user I want to see the content clearly.
@@ -49,6 +55,15 @@ Responsiveness design was checked with [Google Chrome Dev Tools](https://develop
   - All social media links are in the footer and can be accessed from every page.
 - As a user I want to know who has created the website.
   - In the footer there is small text with website creator copyright.
+
+## Browser Compability
+ECOCITY website was successfully tested on following browsers with no issues noticed:
+- Google Chrome Version 96.0.4664.55
+- Mozzila Firefox Version 94.0.2
+- Safari Version 14.1.2
+- Microsoft Edge Version 96.0.1054.34
+
+Layout and responsiveness stayed consistent for diferrent viewports and browsers.
 
 ## Bugs
 During html code validation, 1 bug was found and resolved:

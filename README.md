@@ -203,6 +203,7 @@ The live link can be found here - [ECOCITY](https://miloszmisiek.github.io/ci_p1
 - Fonts are implemented using [Google Fonts](https://fonts.google.com/).
 - Icons are implemented from [Font Awesome](https://fontawesome.com/).
 - Colours visual representation come from [HTML Colors](https://color-term.com/html-colors/), [SchemeColor](https://www.schemecolor.com/no-easy-person.php), [Color Hexa](https://www.colorhexa.com/).
+- Markdown table for Responsiveness section in TESTING file was created using [Tables Generator](https://www.tablesgenerator.com/markdown_tables).
 - Footer and layout inspiration came from CI [Love Running](https://github.com/Code-Institute-Org/love-running-2.0) Project.
 - README file and **Contact Us** submission page inspiration came from CI Student *Ewan Colquhoun* [Wawas Woods](https://github.com/EwanColquhoun/wawaswoods) Project.
 - Wireframes were implemented using [Balsamiq](https://balsamiq.com/).
