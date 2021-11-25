@@ -73,12 +73,12 @@ Welcome to [ECOCITY](https://miloszmisiek.github.io/ci_p1_ecocity/)!
 ### Fonts
 Two styles of fonts are used for the project: 'Teko' for headings and 'Montserrat' for body text elements. All fonts are backed-up with sans-serif.
 ### Colour
-The pirmary colour of the website is a shade of blue with white background. Most images were selected to contrast with the chosen scheme. Blue is the dominant colour of planet Earth, and the website was created to get users attention on earth's climate change problem.
+The primary colour of the website is a shade of blue with white background. Most images were selected to contrast with the chosen scheme. Blue is the dominant colour of planet Earth, and the website was created to get users attention on earth's climate change problem.
 - **Body Text**
 
 ![Body Text Colour](/assets/images/readme/body-text-colour.png)
 
-- **Waste Classes Seection**
+- **Waste Classes Section**
 
 ![Waste Classes Colours](/assets/images/readme/waste-classes-colours.png)
 
@@ -198,7 +198,7 @@ A fork is a copy of a repository. Forking a repository allows you to freely expe
 
 You can fork a repository to create a copy of the repository and make changes without affecting the upstream repository.
 ## Clone a repository.
-In GitHub you have option to create a local copy (clone) of your repository on your device hardrive. The steps are as follows:
+In GitHub you have option to create a local copy (clone) of your repository on your device hard drive. The steps are as follows:
 1. On the GitHub.com navigate to repository page.
 2. Locate the *Code* tab and click on it.
 3. In the expanded window, click the two squares icon to copy https link of the repository.
@@ -206,7 +206,7 @@ In GitHub you have option to create a local copy (clone) of your repository on y
 ![Cloning Repository](assets/images/readme/clone-repo-1.png)
 
 4. On your computer, open **Terminal**.
-5. Naivgate to the direcotry of choice.
+5. Navigate to the directory of choice.
 6. Type **git clone** and paste the copied link of the repository.
 7. Press **Enter** and the local clone of the repository will be created in the selected directory.
 
