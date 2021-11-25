@@ -75,6 +75,18 @@ Two styles of fonts are used for the project: 'Teko' for headings and 'Montserra
 ### Colour
 The pirmary colour of the website is a shade of blue with white background. Most images were selected to contrast with the chosen scheme. Blue is the dominant colour of planet Earth, and the website was created to get users attention on earth's climate change problem.
 
+- Body Text
+
+![Body Text Colour](/assets/images/readme/body-text-colour.png)
+
+- Waste Classes Seection
+
+![Waste Classes Colours](/assets/images/readme/waste-classes-colours.png)
+
+- Hero Heading & Contact Us Form Background
+
+![Backgrounds Colour](/assets/images/readme/backgrounds-colour.png)
+
 # Features
 The main principle of ECOCITY site is to be intuitive and of simple construction. All elements used are based on what most websites can be found on the internet.
 
@@ -190,6 +202,7 @@ The live link can be found here - [ECOCITY](https://miloszmisiek.github.io/ci_p1
 - Parts of code are implemented from [Stack Overflow](https://stackoverflow.com/) and [W3Schools](https://www.w3schools.com) (marked with comments).
 - Fonts are implemented using [Google Fonts](https://fonts.google.com/).
 - Icons are implemented from [Font Awesome](https://fontawesome.com/).
+- Colours visual representation come from [HTML Colors](https://color-term.com/html-colors/), [SchemeColor](https://www.schemecolor.com/no-easy-person.php), [Color Hexa](https://www.colorhexa.com/).
 - Footer and layout inspiration came from CI [Love Running](https://github.com/Code-Institute-Org/love-running-2.0) Project.
 - README file and **Contact Us** submission page inspiration came from CI Student *Ewan Colquhoun* [Wawas Woods](https://github.com/EwanColquhoun/wawaswoods) Project.
 - Wireframes were implemented using [Balsamiq](https://balsamiq.com/).
