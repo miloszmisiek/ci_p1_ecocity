@@ -121,6 +121,14 @@ hr {
     font-style: italic;
     font-size: 70%;
 }
+.source a {
+    text-decoration: none;
+    color: inherit;
+}
+.source:hover {
+    font-size: 100%;
+    text-decoration: underline;
+}
 
 #knowledge-section h2 {
     text-align: center;
