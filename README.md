@@ -37,7 +37,7 @@ Welcome to [ECOCITY](https://miloszmisiek.github.io/ci_p1_ecocity/)!
 - As a user, I want to know what the purpose of the website is as I open it.
 - As a user, I want to access content in a very few clicks.
 - As a user, I want to know what source was used to present data.
-- As a user, I want to see have visual representation of climate change data.
+- As a user, I want to have visual representation of climate change data.
 - As a user, I want to know what causes developing climate change.
 - As a user, I want to know what steps I can take to help the environment.
 - As a user, I want to have the option to contact creator for more information required.
@@ -73,10 +73,10 @@ Welcome to [ECOCITY](https://miloszmisiek.github.io/ci_p1_ecocity/)!
 Two styles of fonts are used for the project: 'Teko' for headings and 'Montserrat' for body text elements. All fonts are backed-up with sans-serif.
 
 ### Colour
-The dominant colour is a shade of blue with white background. Most images were chosen to contrast with the chosen scheme. Blue is the colour of earth's oceans, and the website was created to get users attention on earth's climate change problem.
+The pirmary colour of the website is a shade of blue with white background. Most images were selected to contrast with the chosen scheme. Blue is the dominant colour of planet Earth, and the website was created to get users attention on earth's climate change problem.
 
 # Features
-The main principle of ECOCITY site is to be intuitive and of simple construction. All elements are used as of most websites find on the internet.
+The main principle of ECOCITY site is to be intuitive and of simple construction. All elements used are based on what most websites can be found on the internet.
 
 ## Home Page
 - Navigation
@@ -105,7 +105,7 @@ The main principle of ECOCITY site is to be intuitive and of simple construction
 
 - Footer
   - Contains social media links, which opens in the new tab for better UX.
-  - The selection of social media was based on the most used platforms at the time of project submission.
+  - The selection of social media was based mostly used platforms at the time of project submission.
   - Author's copyright is located at a very bottom with centred, smaller text to avoid cluttering and focus attention on other content.
 
 ![Footer](/assets/images/readme/footer.png)
@@ -114,8 +114,8 @@ The main principle of ECOCITY site is to be intuitive and of simple construction
 
 - Waste Segregation
   - Location: below the navigation bar.
-  - Heading is a question the user may encounter with waste recycling.
-  - The purpose of this section is to get user familiar with classes of waste and how to segregate them for recycling in everyday life. It is structured in the way that top part gives user information on what is classified under the waste class, but bottom part represents what should not be put together with the segregated waste of class.
+  - Heading is a question the user may encounter when dealing with recycling.
+  - The purpose of this section is to make user familiar with classes of waste and how to segregate them for everyday use. It is structured in the way that top part gives user information on what is classified under the waste class, but bottom part represents what should not be put together with the segregated waste of the class.
   - Intention is to reflect user on better home waste handling to reduce waste pollution.
   - It was decided to build this section using HTML elements with cascade styling instead of pre-made-up image to allow for responsiveness.
 
@@ -123,19 +123,19 @@ The main principle of ECOCITY site is to be intuitive and of simple construction
 
 - Change Section
   - Location: below the Waste Segregation section.
-  - Heading is a statement that should influence the user to act accordingly to described content. Icons were added to get better user's attention.
-  - Two paragraphs represent how every user can contribute to environmental improvement.
-  - The styling is mirrored from home page 'Knowledge Section' for enhanced UX.
+  - Heading is a statement that should influence the user to act accordingly to represented content. Icons were added to get user's attention.
+  - Two paragraphs represent how everyone can contribute to environmental improvement.
+  - The styling is mirrored from the home page 'Knowledge Section' for enhanced UX.
 
 ![Change Section](/assets/images/readme/change-section.png)
 
 ## Contact Us Page
 
 - Background image was chosen to represent renewable energy sources to once more focus user attention on the topic.
-- Contact Us form is in the top right corner to reduce background image cluttering.
+- Contact Us form is in the top left corner to reduce background image cluttering.
 - The contact section is limited to max-width 2000px for UX, beyond this resolution the whitespace is added on both sides of the image, to prevent the image from extensive cropping.
-- Input fields are used to collect personal data of the user with his email address. It will not allow user to leave the field blank or type incorrect email address format.
-- Textarea allows user to type his brief message. Maximum length of the message is 350 characters to force user for essential message.
+- Input fields are used to collect user's personal data with his email address. It will not allow user to leave the field blank or type incorrect email address format.
+- Textarea allows user to type his brief message. Maximum length of the message is 350 characters to force for essential message.
 - Send button reverts colours when hovered with mouse pointer to attract user.
 - Contact Us form is validated only from client-site - no running server for this project.
 
