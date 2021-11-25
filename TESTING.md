@@ -88,4 +88,4 @@ The website was tested using [Google Lighthouse](https://developers.google.com/w
 
 ![Lighthouse Mobile](assets/images/testing/lighthouse-mobile.png)
 
-First tests resulted in Performance score approx. 85%, due to large image files used on the website. After test, all images were resized to reduce their size. This process resulted in Performance score improvement up to 88%.
+First tests resulted in Performance score approx. 85%, due to large image files used on the website. After test, all images were resized. This process resulted in Performance score improvement up to 88%.
