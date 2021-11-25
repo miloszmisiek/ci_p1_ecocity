@@ -55,16 +55,13 @@ Responsiveness design was checked with [Google Chrome Dev Tools](https://develop
   - All social media links are in the footer and can be accessed from every page.
 - As a user I want to know who has created the website.
   - In the footer there is small text with website creator copyright.
-
 ## Browser Compability
 ECOCITY website was successfully tested on following browsers with no issues noticed:
 - Google Chrome Version 96.0.4664.55
 - Mozzila Firefox Version 94.0.2
 - Safari Version 14.1.2
 - Microsoft Edge Version 96.0.1054.34
-
 Layout and responsiveness stayed consistent for diferrent viewports and browsers.
-
 ## Bugs
 During html code validation, 1 bug was found and resolved:
    - On Submit Page, there was no heading element. After test, the site was slightly restructured to include h2 element.
@@ -72,14 +69,11 @@ During html code validation, 1 bug was found and resolved:
 ![Submit Page Bug](assets/images/testing/submit-page-bug.png)
 
 ## Google Lighthouse
-
 The website was tested using [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) in Chrome Dev Tools for desktop and mobile versions.
-
 - Performance - rates how your website responds while loading.
 - Accessibility - rates the accessibility of your website to all users (including impaired ones).
 - Best Practices - rates how your websites include industry standards.
 - SEO - *Search Engine Optimisation*, rates how your website is optimised for search engine results.
-
 ### Desktop Results - Home Page (example)
 
 ![Lighthouse Desktop](assets/images/testing/lighthouse-desktop.png)

@@ -46,6 +46,7 @@ Welcome to [ECOCITY](https://miloszmisiek.github.io/ci_p1_ecocity/)!
 ## Wireframes
 [Balsamiq](https://balsamiq.com/) was used to create wireframes as part of project planning. They were used to discuss the concept of the website with a designated Code Institute mentor. The final project differs in some places from the original concept presented below to improve UX or responsiveness of the site.
 ### Home Page
+
 ![Home Page Image](/assets/images/readme/home.png)
 
 ![Home Page Image - Tablet](/assets/images/readme/home-tablet.png)
@@ -53,6 +54,7 @@ Welcome to [ECOCITY](https://miloszmisiek.github.io/ci_p1_ecocity/)!
 ![Home Page - Smartphone](/assets/images/readme/home-smartphone.png)
 
 ### GO ECO Page
+
 ![GO ECO - DESKTOP](/assets/images/readme/go-eco.png)
 
 ![GO ECO - TABLET](/assets/images/readme/go-eco-tablet.png)
@@ -68,13 +70,10 @@ Welcome to [ECOCITY](https://miloszmisiek.github.io/ci_p1_ecocity/)!
 ![CONTACT US - SMARTPHONE](/assets/images/readme/contact-us-smartphone.png)
 
 ## Layout Design
-
 ### Fonts
 Two styles of fonts are used for the project: 'Teko' for headings and 'Montserrat' for body text elements. All fonts are backed-up with sans-serif.
-
 ### Colour
 The pirmary colour of the website is a shade of blue with white background. Most images were selected to contrast with the chosen scheme. Blue is the dominant colour of planet Earth, and the website was created to get users attention on earth's climate change problem.
-
 - **Body Text**
 
 ![Body Text Colour](/assets/images/readme/body-text-colour.png)
@@ -89,13 +88,11 @@ The pirmary colour of the website is a shade of blue with white background. Most
 
 # Features
 The main principle of ECOCITY site is to be intuitive and of simple construction. All elements used are based on what most websites can be found on the internet.
-
 ## Home Page
 - Navigation
   - Location: top of the site next to logo on every page of the project.
   - It is well responsive to different viewports.
   - Logo can be clicked to bring the user back to the home page.
-
 
 ![Navigation Bar - Desktop](/assets/images/readme/navigation-bar.png)
 
@@ -123,7 +120,6 @@ The main principle of ECOCITY site is to be intuitive and of simple construction
 ![Footer](/assets/images/readme/footer.png)
 
 ## GO ECO Page
-
 - Waste Segregation
   - Location: below the navigation bar.
   - Heading is a question the user may encounter when dealing with recycling.
@@ -142,7 +138,6 @@ The main principle of ECOCITY site is to be intuitive and of simple construction
 ![Change Section](/assets/images/readme/change-section.png)
 
 ## Contact Us Page
-
 - Background image was chosen to represent renewable energy sources to once more focus user attention on the topic.
 - Contact Us form is in the top left corner to reduce background image cluttering.
 - The contact section is limited to max-width 2000px for UX, beyond this resolution the whitespace is added on both sides of the image, to prevent the image from extensive cropping.
@@ -154,7 +149,6 @@ The main principle of ECOCITY site is to be intuitive and of simple construction
 ![Contact Us Website](assets/images/readme/contact-us-website.png)
 
 ## Submit Page
-
 - User is redirected to submit page after filling Contact Us form correctly.
 - The site uses a form element with method attribute *GET*. The decision was made after [YouTube tutorial](https://www.youtube.com/watch?v=fNcJuPIZ2WE) to omit running server for this project.
 - The site provide link to home page - word *here*.
@@ -177,12 +171,9 @@ The main principle of ECOCITY site is to be intuitive and of simple construction
 - [Balsamiq](https://balsamiq.com/wireframes/) - wireframes used at planning stage.
 - [Gitpod](https://www.gitpod.io/#get-started) - cloud development platform to deploy website.
 - [Github](https://github.com/) - code hosting platform to host the website.
-
 # Testing
 All various test results are presented in separate [TESTING](TESTING.md) file.
-
 # Deployment
-
 ## Using GitHub Pages to deploy the project.
 The website was deployed to GitHub pages. The steps are as follows:
 1. In GitHub project repository, click on **Settings** tab.
@@ -198,7 +189,6 @@ The website was deployed to GitHub pages. The steps are as follows:
 ![GitHub Pages](assets/images/readme/github-deployment-2.png)
 
 The live link can be found here - [ECOCITY](https://miloszmisiek.github.io/ci_p1_ecocity/).
-
 ## Fork a repository.
 A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project. The steps are as follows:
 1. On the GitHub.com navigate to repository page.
@@ -207,7 +197,6 @@ A fork is a copy of a repository. Forking a repository allows you to freely expe
 ![Fork Repo](/assets/images/readme/fork-repo.png)
 
 You can fork a repository to create a copy of the repository and make changes without affecting the upstream repository.
-
 ## Clone a repository.
 In GitHub you have option to create a local copy (clone) of your repository on your device hardrive. The steps are as follows:
 1. On the GitHub.com navigate to repository page.
@@ -242,14 +231,11 @@ In GitHub you have option to create a local copy (clone) of your repository on y
   - 'Go Cycling': [Reid Bikes](https://www.reidbikes.com/2020/03/11/the-environmental-impacts-of-cycling/).
   - 'Nature is Power': [ADEC Innovations](http://blog.adecesg.com/blog/environmental-impacts-of-renewable-energy-sources).
   - 'Waste Segregation': [Czysta Bydgoszcz](https://www.czystabydgoszcz.pl/odpady-komunalne/rady-na-odpady/materialy-informacyjne/ang/), [Just Ask Poland](https://www.justaskpoland.com/new-rules-of-waste-management-in-poland/)
-
 ## Media
 - Hero background image came from [Pixabay](https://pixabay.com/).
 - 'Plastic Pollution', 'Melting Glaciers' and 'Air Pollution' paragraphs images came from [Unsplash](https://unsplash.com/).
 - 'Chemical Solvents', 'Go Cycling', 'Nature is power' and 'Contact Us' sections images came from [Pexels](https://www.pexels.com/).
-
 # Acknowledgements
 [ECOCITY](https://miloszmisiek.github.io/ci_p1_ecocity/) website was created as part of [Code Institute](https://codeinstitute.net/) Full Stack Software Developer (e-Commerce) Diploma. I am very grateful to my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/) for his time spent and guidance on this project and Code Institute for creating such an excellent web-development study tool.
-
 
 Milosz Misiek 2021
