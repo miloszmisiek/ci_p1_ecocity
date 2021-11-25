@@ -30,7 +30,6 @@ Welcome to [ECOCITY](https://miloszmisiek.github.io/ci_p1_ecocity/)!
   - [Content](#content)
   - [Media](#media)
 - **[Acknowledgements](#acknowledgements)**
-
 # User Experience
 ## User Stories
 - As a user, I want to see the content clearly.
@@ -42,7 +41,6 @@ Welcome to [ECOCITY](https://miloszmisiek.github.io/ci_p1_ecocity/)!
 - As a user, I want to know what steps I can take to help the environment.
 - As a user, I want to have the option to contact creator for more information required.
 - As a user, I want to access project social media, if any exist.
-
 ## Wireframes
 [Balsamiq](https://balsamiq.com/) was used to create wireframes as part of project planning. They were used to discuss the concept of the website with a designated Code Institute mentor. The final project differs in some places from the original concept presented below to improve UX or responsiveness of the site.
 ### Home Page
@@ -69,6 +67,8 @@ Welcome to [ECOCITY](https://miloszmisiek.github.io/ci_p1_ecocity/)!
 
 ![CONTACT US - SMARTPHONE](/assets/images/readme/contact-us-smartphone.png)
 
+## Site Structure
+ECOCITY has 3 pages. The default loading page is [Home](https://miloszmisiek.github.io/ci_p1_ecocity/index.html). [GO ECO](https://miloszmisiek.github.io/ci_p1_ecocity/goeco.html) and [Contact Us](https://miloszmisiek.github.io/ci_p1_ecocity/contactus.html) pages can be loaded from navigation menu on the top of the site. [Submit](https://miloszmisiek.github.io/ci_p1_ecocity/submit.html) page opens when user fill the Contact Us form correctly.
 ## Layout Design
 ### Fonts
 Two styles of fonts are used for the project: 'Teko' for headings and 'Montserrat' for body text elements. All fonts are backed-up with sans-serif.
