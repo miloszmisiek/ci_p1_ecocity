@@ -89,14 +89,14 @@ The pirmary colour of the website is a shade of blue with white background. Most
 # Features
 The main principle of ECOCITY site is to be intuitive and of simple construction. All elements used are based on what most websites can be found on the internet.
 ## Home Page
-- Navigation
+- **Navigation**
   - Location: top of the site next to logo on every page of the project.
   - It is well responsive to different viewports.
   - Logo can be clicked to bring the user back to the home page.
 
 ![Navigation Bar - Desktop](/assets/images/readme/navigation-bar.png)
 
-- Hero Section
+- **Hero Section**
   - Location: under the navigation section.
   - The hero main heading is the paraphrase of Donald Trump's presidential campaign slogan to get user attention with humour. It is followed with one sentence description of website ideology.
   - Hero background image represents the planet Earth with the Moon viewed from the satellite perspective. 
@@ -104,7 +104,7 @@ The main principle of ECOCITY site is to be intuitive and of simple construction
 
 ![Hero Section - Desktop](/assets/images/readme/hero-section-desktop.png)
 
-- Essential Facts
+- **Essential Facts**
   - Location: below hero section.
   - Heading is in the form of a quiz question to puzzle the user.
   - Four sections with attached images of selected climate change facts with short text describing problems.
@@ -112,7 +112,7 @@ The main principle of ECOCITY site is to be intuitive and of simple construction
 
 ![Essential Facts](/assets/images/readme/essential-facts.png)
 
-- Footer
+- **Footer**
   - Contains social media links, which opens in the new tab for better UX.
   - The selection of social media was based mostly used platforms at the time of project submission.
   - Author's copyright is located at a very bottom with centred, smaller text to avoid cluttering and focus attention on other content.
@@ -120,7 +120,7 @@ The main principle of ECOCITY site is to be intuitive and of simple construction
 ![Footer](/assets/images/readme/footer.png)
 
 ## GO ECO Page
-- Waste Segregation
+- **Waste Segregation**
   - Location: below the navigation bar.
   - Heading is a question the user may encounter when dealing with recycling.
   - The purpose of this section is to make user familiar with classes of waste and how to segregate them for everyday use. It is structured in the way that top part gives user information on what is classified under the waste class, but bottom part represents what should not be put together with the segregated waste of the class.
@@ -129,7 +129,7 @@ The main principle of ECOCITY site is to be intuitive and of simple construction
 
 ![Waste Segregation](/assets/images/readme/waste-segregation.png)
 
-- Change Section
+- **Change Section**
   - Location: below the Waste Segregation section.
   - Heading is a statement that should influence the user to act accordingly to represented content. Icons were added to get user's attention.
   - Two paragraphs represent how everyone can contribute to environmental improvement.
