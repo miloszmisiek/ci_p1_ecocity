@@ -80,9 +80,11 @@ The pirmary colour of the website is a shade of blue with white background. Most
 ![Body Text Colour](/assets/images/readme/body-text-colour.png)
 
 - **Waste Classes Seection**
+
 ![Waste Classes Colours](/assets/images/readme/waste-classes-colours.png)
 
 - **Hero Heading & Contact Us Form Background**
+
 ![Backgrounds Colour](/assets/images/readme/backgrounds-colour.png)
 
 # Features
