@@ -32,28 +32,28 @@ Responsiveness design was checked with [Google Chrome Dev Tools](https://develop
 |  Links |   pass  |    pass   |     pass    |   pass   | pass |   pass   |    pass    |     pass    |
 
 ## User Stories
-- As a user I want to see the content clearly.
+- As a user, I want to see the content clearly.
   - White background gives great contrast to content presented.
   - The content ratio is maintained to focus attention on important aspects.
   - Navigation bar at the top gives access to all website pages.
-- As a user I want to know what the purpose of the website is as I open it.
+- As a user, I want to know what the purpose of the website is as I open it.
   - When the site opens, the hero image with the headings gets user's attention.
   - Logo of the project is a message to the website main principle, to create eco-friendly environment.
-- As a user I want to access content in a very few clicks.
+- As a user, I want to access content in a very few clicks.
   - User can navigate through whole website content by using mouse button on the navigation bar and scrolling through the pages to see the content.
-- As a user I want to know what source was used to present data.
+- As a user, I want to know what source was used to present data.
   - All paragraphs on **Home** and **GO ECO** page have source data attached.
-- As a user I want to have visual representation of climate change data.
+- As a user, I want to have visual representation of climate change data.
   - On **Home** page the facts related to climate change have images attached.
-- As a user I want to know what causes developing climate change.
+- As a user, I want to know what causes developing climate change.
   - On **Home** page below *hero* section user has access to essential climate change facts.
-- As a user I want to know what steps I can take to help the environment.
+- As a user, I want to know what steps I can take to help the environment.
   - Separate **GO ECO** page present first steps the user can take to be more eco-friendly.
-- As a user I want to have option to contact project coordinator for more information required.
+- As a user, I want to have the option to contact creator for more information required.
   - On the **Contact Us** page user can fill the form and send the message to responsible person.
-- As a user I want to access project social media, if any exist.
+- As a user, I want to access project social media, if any exist.
   - All social media links are in the footer and can be accessed from every page.
-- As a user I want to know who has created the website.
+- As a user, I want to know who has created the website.
   - In the footer there is small text with website creator copyright.
 ## Browser Compatibility
 ECOCITY website was successfully tested on following browsers with no issues noticed:

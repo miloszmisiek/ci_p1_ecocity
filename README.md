@@ -41,8 +41,9 @@ Welcome to [ECOCITY](https://miloszmisiek.github.io/ci_p1_ecocity/)!
 - As a user, I want to know what steps I can take to help the environment.
 - As a user, I want to have the option to contact creator for more information required.
 - As a user, I want to access project social media, if any exist.
+- As a user, I want to know who has created the website.
 ## Wireframes
-[Balsamiq](https://balsamiq.com/) was used to create wireframes as part of project planning. They were used to discuss the concept of the website with a designated Code Institute mentor. The final project differs in some places from the original concept presented below to improve UX or responsiveness of the site.
+[Balsamiq](https://balsamiq.com/) was used to create wireframes as a part of project planning. They were used to discuss the concept of the website with a designated Code Institute mentor. The final project differs in some places from the original concept presented below to improve UX or responsiveness of the site.
 ### Home Page
 
 ![Home Page Image](/assets/images/readme/home.png)
@@ -87,10 +88,10 @@ The primary colour of the website is a shade of blue with white background. Most
 ![Backgrounds Colour](/assets/images/readme/backgrounds-colour.png)
 
 # Features
-The main principle of ECOCITY site is to be intuitive and of simple construction. All elements used are based on what most websites can be found on the internet.
+The main principle of ECOCITY site is to be intuitive and of simple construction. All used elements are based on industry standard layouts.
 ## Home Page
 - **Navigation**
-  - Location: top of the site next to logo on every page of the project.
+  - Location: top of the site next to the logo on every page of the project.
   - It is well responsive to different viewports.
   - Logo can be clicked to bring the user back to the home page.
 
@@ -109,6 +110,7 @@ The main principle of ECOCITY site is to be intuitive and of simple construction
   - Heading is in the form of a quiz question to puzzle the user.
   - Four sections with attached images of selected climate change facts with short text describing problems.
   - The intention is to give user a specific data about human environmental impact to reflect on the issue.
+  - Source websites are attached in the paragraphs. They are hyperlinks, when hovered with mouse pointer, the font increases to differentiate from the rest of text.
 
 ![Essential Facts](/assets/images/readme/essential-facts.png)
 
@@ -131,9 +133,10 @@ The main principle of ECOCITY site is to be intuitive and of simple construction
 
 - **Change Section**
   - Location: below the Waste Segregation section.
-  - Heading is a statement that should influence the user to act accordingly to represented content. Icons were added to get user's attention.
+  - Heading is a statement that should influence the user to act accordingly to represented content. Icons were added for enhanced UX.
   - Two paragraphs represent how everyone can contribute to environmental improvement.
   - The styling is mirrored from the home page 'Knowledge Section' for enhanced UX.
+  - Source websites are attached in the paragraphs. They are hyperlinks, when hovered with mouse pointer, the font increases to differentiate from the rest of text.
 
 ![Change Section](/assets/images/readme/change-section.png)
 
@@ -142,7 +145,7 @@ The main principle of ECOCITY site is to be intuitive and of simple construction
 - Contact Us form is in the top left corner to reduce background image cluttering.
 - The contact section is limited to max-width 2000px for UX, beyond this resolution the whitespace is added on both sides of the image, to prevent the image from extensive cropping.
 - Input fields are used to collect user's personal data with his email address. It will not allow user to leave the field blank or type incorrect email address format.
-- Textarea allows user to type his brief message. Maximum length of the message is 350 characters to force for essential message.
+- Textarea allows user to type his brief message. Maximum length of the message is 350 characters to force for a short text.
 - Send button reverts colours when hovered with mouse pointer to attract user.
 - Contact Us form is validated only from client-site - no running server for this project.
 
@@ -221,7 +224,7 @@ In GitHub you have option to create a local copy (clone) of your repository on y
 - Markdown table for Responsiveness section in TESTING file was created using [Tables Generator](https://www.tablesgenerator.com/markdown_tables).
 - GitHub Deployment section come from [GitHub Docs](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
 - Footer and layout inspiration came from CI [Love Running](https://github.com/Code-Institute-Org/love-running-2.0) Project.
-- README file and **Contact Us** submission page inspiration came from CI Student *Ewan Colquhoun* [Wawas Woods](https://github.com/EwanColquhoun/wawaswoods) Project.
+- **README** file, **TESTING** file and **Contact Us** submission page inspiration came from CI Student *Ewan Colquhoun* [Wawas Woods](https://github.com/EwanColquhoun/wawaswoods) Project.
 - Wireframes were implemented using [Balsamiq](https://balsamiq.com/).
 - Information sources:
   - 'Plastic Pollution': [Surfers Against Sewage](https://www.sas.org.uk/our-work/plastic-pollution/plastic-pollution-facts-figures/).
@@ -236,6 +239,6 @@ In GitHub you have option to create a local copy (clone) of your repository on y
 - 'Plastic Pollution', 'Melting Glaciers' and 'Air Pollution' paragraphs images came from [Unsplash](https://unsplash.com/).
 - 'Chemical Solvents', 'Go Cycling', 'Nature is power' and 'Contact Us' sections images came from [Pexels](https://www.pexels.com/).
 # Acknowledgements
-[ECOCITY](https://miloszmisiek.github.io/ci_p1_ecocity/) website was created as part of [Code Institute](https://codeinstitute.net/) Full Stack Software Developer (e-Commerce) Diploma. I am very grateful to my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/) for his time spent and guidance on this project and Code Institute for creating such an excellent web-development study tool.
+[ECOCITY](https://miloszmisiek.github.io/ci_p1_ecocity/) website was created as part of [Code Institute](https://codeinstitute.net/) Full Stack Software Developer (e-Commerce) Diploma. I would like to express my gratitude and appreciation to my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/) for his time spent and guidance on this project and [Code Institute](https://codeinstitute.net/) for creating such an excellent web-development study tool.
 
 Milosz Misiek 2021
