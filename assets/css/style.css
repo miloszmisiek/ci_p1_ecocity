@@ -121,10 +121,12 @@ hr {
     font-style: italic;
     font-size: 70%;
 }
+
 .source a {
     text-decoration: none;
     color: inherit;
 }
+
 .source:hover {
     font-size: 100%;
     text-decoration: underline;
@@ -384,11 +386,13 @@ hr {
     color: grey;
     opacity: .5;
 }
+
 :-ms-input-placeholder {
     /* Internet Explorer 10-11 */
     color: grey;
     opacity: .5;
 }
+
 ::-ms-input-placeholder {
     /* Microsoft Edge */
     color: grey;
